@@ -1,19 +1,5 @@
 # Task 4 – Machine Learning Model Implementation
 
-*COMPANY*: CODTECH IT SOLUTIONS
-
-*NAME*: SANDHYA KUMARI
-
-*INTERN ID*: CT04DF659
-
-*DOMAIN*: PYTHON PROGRAMMING
-
-*DURATION*: 4 WEEKS
-
-*MENTOR*: NEELA SANTOSH
-
----
-
 ## 📄 Description
 
 This task focused on implementing a basic **machine learning model** using Python and the **scikit-learn** library. The objective was to choose a suitable classification problem and demonstrate a full workflow including preprocessing, training, prediction, and evaluation.
